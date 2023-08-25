@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+  user-select: none;
+  background: #F5F5DC;
+}
+  
